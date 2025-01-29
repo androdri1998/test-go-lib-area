@@ -1,1 +1,1 @@
-module github.com/androdri1998/test-go-lib-area
+module github.com/androdri1998/testgolibarea
