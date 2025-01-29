@@ -1,4 +1,4 @@
-package test-go-lib-area
+package testgolibarea
 
 import "math"
 
